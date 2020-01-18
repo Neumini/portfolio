@@ -1,0 +1,41 @@
+.section-header {
+    color:rgb(253, 251, 250);
+    font-style:italic;
+
+}
+
+.section {
+    font-family: Arial;
+    text-decoration: underline;
+    color:rgb(97, 95, 230);
+
+}
+
+.overall {
+    border-style:solid;
+    border-color:rgb(14, 13, 13);
+    margin: 10px 40px 10px 40px;
+    
+}
+.all {
+    background-color: rgb(48, 190, 143);
+}
+
+
+
+#box1 {
+    background-color: blue;
+    height:300px;
+    width: 500px;
+}
+
+#box2 {
+    background-color: blue;
+    height:300px;
+    width: 500px;
+}
+#box3 {
+    background-color: blue;
+    height:300px;
+    width: 500px;
+}
